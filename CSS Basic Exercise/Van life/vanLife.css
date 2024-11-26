@@ -1,0 +1,61 @@
+.all{
+    background-color:#FFF7ED;
+    width: 548.15px;
+    padding-left: 26;
+    
+}
+#vanlife{
+  background-color:#FFF7ED;
+  width: 548.15px; 
+  height: 111.62px; 
+  text-align: 5;
+  font-size: 25;
+}
+#back-to-all-vans{
+    color: #201F1D;
+    width: 119px;
+    height: 23px;
+    font-family: Inter;
+    font-size: 15.95px;
+    text-decoration-line: Underline;
+    text-decoration-style: solid;
+
+}
+button{
+  background-color: #252525;
+  color: #AAAAAA;
+}
+#Rent-this-van{
+background: #FF8C38;
+width: 494.33px;
+height: 49.83px;
+color: #FFFFFF;
+text-align: center;
+}
+.footer{
+  background-color: #252525;
+  width: 548.15px;
+  height: 74.75 px;
+}
+footer{
+  color: #AAAAAA;
+  font-size: 14px;
+  font-family: inter;
+  text-align: center;
+  font-weight: 500;
+  line-height: 22.92px;
+}
+#simple{
+  background-color: #E17654;
+  border: #E17654;
+  ;
+  width: 58.8px;
+  height: 28.9px;
+  font-size: 16px;
+  font-family: Inter;
+  
+  ;
+}
+#both{
+  width: 548.15px;
+}
