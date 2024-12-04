@@ -1,0 +1,222 @@
+
+#cash{
+    height: 183px;
+    height: 250px;
+    color:#FBFBFB; 
+    padding-left: 800px;
+}
+
+#matheus{
+    width: 504px;
+    height: 75px;
+    font-family: Roboto;
+    font-size: 64px;
+    margin: auto;
+    
+   
+}
+
+#y{
+    width: 1032px;
+    height: 56px;
+    font-family: Roboto;
+    font-size: 24px;
+    color: #445964;
+    margin: auto;
+    
+}
+
+#hard{
+    width: 316px;
+    height: 75px;
+    font-family: Roboto;
+    font-size: 64px;
+    margin: auto;
+    margin-top: 50px;
+
+}
+.you{
+   width: 116px;
+   height: 42px;
+   font-family: Roboto;
+   font-size: 36px;
+   display: flex;
+   list-style-type: none;
+   gap: 200px;
+   margin-left: 400px;
+   
+   
+}
+
+.him{
+    width: 116px;
+   height: 42px;
+   font-family: Roboto;
+   font-size: 36px;
+   display: flex;
+   list-style-type: none;
+   gap: 200px;
+   margin-left: 400px;
+}
+
+#minhas{
+    
+    height: 75px;
+    font-family: Roboto;
+    font-size: 64px;
+    text-align: center;
+}
+
+#tec{
+    width: 133px;
+    height: 56px;
+    font-family: Roboto;
+    font-size: 24px;
+    margin: auto;
+}
+
+#ja{
+    width: 207px;
+    height: 42px;
+    font-family: Roboto;
+    font-size: 36px;
+    margin: auto;
+    
+}
+
+#car{
+    text-align: center;
+    padding: 5%;  
+    
+}
+
+#tech{
+    width: 133px;
+    height: 56px;
+    font-family: Roboto;
+    font-size: 24px;
+    margin: auto;
+}
+
+.boy{
+    text-align: center;
+}
+
+#at{
+    width: 447px;
+    height: 42px;
+    font-family: Roboto;
+    font-size: 36px;
+    margin: auto;
+}
+
+#goat{
+    width: 100px;
+    height: 106px;
+    color: #445964;
+    text-align: center;
+    padding: 5%;
+}
+
+.girl{
+    text-align: center;
+}
+
+#minha{
+    width: 398px;
+    height: 56px;
+    font-family: Roboto;
+    font-size: 24px;
+    text-align: right;
+    color: #445964;
+    margin-top: 100px;
+
+}
+
+#experiencia{
+    width: 349px;
+    height: 75px;
+    font-family: Roboto;
+    font-size: 64px;
+    color: #000000;
+}
+
+.put{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+#cargo{
+    width: 98px;
+    height: 42px;
+    font-family: Roboto;
+    font-size: 36px;
+   
+}
+
+#lorem-ipsum{
+    width: 495px;
+    height: 163px;
+    color: Roboto;
+    font-size: 24px;
+    text-align: center;
+    
+
+
+}
+
+.card{
+    background: black;
+    color: #FFFFFF;
+    width: 495px;
+    height: 163px;
+    color: Roboto;
+    font-size: 24px;
+    text-align: center;
+    
+}
+
+.cargo2{
+    background: black;
+    color: #FFFFFF;
+    width: 495px;
+    height: 163px;
+    color: Roboto;
+    font-size: 24px;
+    text-align: center;
+}
+.cargo3{
+    background: black;
+    color: #FFFFFF;
+    width: 495px;
+    height: 163px;
+    color: Roboto;
+    font-size: 24px;
+    text-align: center;
+}
+.all-cargos{
+    display: flex;
+    gap: 100px;
+    margin-top: 100px;
+}
+
+#aprender{
+    width: 610px;
+    height: 93px;
+    font-size: 24px;
+    font-family: Roboto;  
+}
+
+#leinardo{
+    width: 328px;
+    height: 50px;
+    font-family: Roboto;
+    font-size: 36px;
+    color:#263138;
+    justify-content: center;
+}
+
+.append-leinardo{
+    text-align: center;  
+}
